@@ -1,0 +1,21 @@
+description: Strain Gauges analog front end and ADC
+github_branch: BRIDGEADC01A
+github_branches:
+- BRIDGEADC01A
+github_repo: BRIDGEADC01
+github_url: https://github.com/mlab-modules/BRIDGEADC01
+homepage: false
+image: doc/img/BRIDGEADC01A_demo.jpg
+images:
+- doc/img/BRIDGEADC01A_demo.jpg
+- doc/img/BRIDGEADC01A_small.jpg
+- doc/img/BRIDGEADC01A_QRcode.png
+issues: 1
+mark: 50
+tags:
+- strain-gauge
+- weight-scale
+- weight-sensors
+- weight-sensor
+- force-sensitive-resistor
+title: BRIDGEADC01

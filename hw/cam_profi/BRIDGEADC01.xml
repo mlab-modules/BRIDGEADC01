@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/BRIDGEADC01.kicad_sch</source>
+    <date>Wed Jul  5 14:03:34 2023</date>
+    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>BRIDGEADC01</title>
+        <company>Mlab www.mlab.cz</company>
+        <rev/>
+        <date>%F</date>
+        <source>BRIDGEADC01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8865</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="CP_Small" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8865"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055623093</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="C_Small" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005562302c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="C" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f06426</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8865</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="CP1" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8865"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f06379</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitors_Tantalum_SMD:TantalC_SizeB_EIA-3528_Reflow</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8865</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="CP_Small" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8865"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055eff6b1</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="C_Small" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055eff6ab</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="C" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005669c853</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>M4</value>
+      <footprint>Diodes_SMD:SMA_Standard</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="D_Small" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055622fb7</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>M4</value>
+      <footprint>Diodes_SMD:SMA_Standard</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="D_Small" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055eff6a5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>3÷5V</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x03_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d65bc</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>ACX</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f00e96</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>~ACX</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f01000</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>AIN1+</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055effd9f</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>AIN1-</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055effe4e</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>AIN2+</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f00248</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>AIN2-</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f0024e</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>REFIN-</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f014e8</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>REFIN+</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f014ee</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>POL</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_1x03" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f0199d</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>~RESET</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f03dd9</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>~SYNC</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f03e0a</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>~RDY</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f025a5</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>~CS</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f02674</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>SCLK</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f026a3</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>DIN</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f02d7c</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>DOUT</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f02da5</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>~STANDBY</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f04a00</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>+5V</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x03_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055eff692</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>MCLKIN</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f01956</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>MCLKOUT</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f01915</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>VAA</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005669b858</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>GND</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x02</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005669becf</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>BLM21PG300SN1D</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87fd</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="INDUCTOR" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87fd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f054a3</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>BLM21PG300SN1D</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87fd</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="INDUCTOR" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87fd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f08360</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="BRIDGEADC01A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="R" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f036cf</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="R" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f03806</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="R" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f044e3</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MIC4426</value>
+      <footprint>Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f8a06</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="MIC4426" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8a06"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055f0073f 00000000-0000-0000-0000-000055f006d0</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AD7730</value>
+      <footprint>Housings_SSOP:TSSOP-24_4.4x7.8mm_Pitch0.65mm</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f8a14</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="AD7730" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8a14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055eefc6e</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>4.9152 MHz</value>
+      <footprint>Crystals:Crystal_HC49-U_Vertical</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b0d</field>
+      </fields>
+      <libsource lib="BRIDGEADC01A-rescue" part="Crystal_Small" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b0d"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BRIDGEADC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000055efecbc</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BRIDGEADC01A-rescue" part="AD7730">
+      <footprints>
+        <fp>TSSOP_24</fp>
+        <fp>SOIC_24</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD7730</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCLK" type="input"/>
+        <pin num="2" name="MCLKIN" type="input"/>
+        <pin num="3" name="MCLKOUT" type="input"/>
+        <pin num="4" name="POL" type="input"/>
+        <pin num="5" name="~{SYNC}" type="input"/>
+        <pin num="6" name="~{RESET}" type="input"/>
+        <pin num="7" name="Vbias" type="input"/>
+        <pin num="8" name="AGND" type="power_in"/>
+        <pin num="9" name="AVDD" type="power_in"/>
+        <pin num="10" name="AIN1+" type="input"/>
+        <pin num="11" name="AIN1-" type="input"/>
+        <pin num="12" name="AIN2+/D1" type="output"/>
+        <pin num="13" name="AIN2-/D0" type="output"/>
+        <pin num="14" name="REFIN+" type="input"/>
+        <pin num="15" name="REFIN-" type="input"/>
+        <pin num="16" name="ACX" type="output"/>
+        <pin num="17" name="~{ACX}" type="output"/>
+        <pin num="18" name="~{STANDBY}" type="input"/>
+        <pin num="19" name="~{CS}" type="input"/>
+        <pin num="20" name="~{RDY}" type="output"/>
+        <pin num="21" name="DOUT" type="output"/>
+        <pin num="22" name="DIN" type="input"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="DGND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="CP1">
+      <footprints>
+        <fp>SMD*_Pol</fp>
+        <fp>c_elec*</fp>
+        <fp>C*elec</fp>
+        <fp>TantalC*</fp>
+        <fp>Elko*</fp>
+        <fp>CP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="CP_Small">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="C_Small">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="Crystal_Small">
+      <footprints>
+        <fp>Crystal_</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="D_Small">
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>*_Diode_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="HEADER_1x03">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="HEADER_2x01_PARALLEL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x01_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="HEADER_2x03_PARALLEL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="INDUCTOR">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="MIC4426">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MIC4426</field>
+      </fields>
+      <pins>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="VCC" type="power_in"/>
+        <pin num="7" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="BRIDGEADC01A-rescue" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="J10" pin="3" pintype="input"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+      <node ref="U2" pin="24" pinfunction="DGND" pintype="power_in"/>
+    </net>
+    <net code="2" name="GNDA">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J19" pin="1" pintype="input"/>
+      <node ref="J19" pin="2" pintype="input"/>
+      <node ref="J19" pin="5" pintype="input"/>
+      <node ref="J19" pin="6" pintype="input"/>
+      <node ref="J23" pin="1" pintype="input"/>
+      <node ref="J23" pin="2" pintype="input"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="AGND" pintype="power_in"/>
+    </net>
+    <net code="3" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J19" pin="3" pintype="input"/>
+      <node ref="J19" pin="4" pintype="input"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="5" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="U1" pin="5" pintype="output"/>
+    </net>
+    <net code="6" name="Net-(U2-ACX)">
+      <node ref="U1" pin="2" pintype="input"/>
+      <node ref="U2" pin="16" pinfunction="ACX" pintype="output"/>
+    </net>
+    <net code="7" name="Net-(U2-AIN1+)">
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="U2" pin="10" pinfunction="AIN1+" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(U2-AIN1-)">
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="U2" pin="11" pinfunction="AIN1-" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(U2-AIN2+{slash}D1)">
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="U2" pin="12" pinfunction="AIN2+/D1" pintype="output"/>
+    </net>
+    <net code="10" name="Net-(U2-AIN2-{slash}D0)">
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="U2" pin="13" pinfunction="AIN2-/D0" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(U2-DIN)">
+      <node ref="J16" pin="1" pintype="input"/>
+      <node ref="J16" pin="2" pintype="input"/>
+      <node ref="U2" pin="22" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(U2-DOUT)">
+      <node ref="J17" pin="1" pintype="input"/>
+      <node ref="J17" pin="2" pintype="input"/>
+      <node ref="U2" pin="21" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(U2-MCLKIN)">
+      <node ref="J20" pin="1" pintype="input"/>
+      <node ref="J20" pin="2" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="MCLKIN" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(U2-MCLKOUT)">
+      <node ref="J21" pin="1" pintype="input"/>
+      <node ref="J21" pin="2" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="MCLKOUT" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(U2-POL)">
+      <node ref="J10" pin="2" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="POL" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(U2-REFIN+)">
+      <node ref="J9" pin="1" pintype="input"/>
+      <node ref="J9" pin="2" pintype="input"/>
+      <node ref="U2" pin="14" pinfunction="REFIN+" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(U2-REFIN-)">
+      <node ref="J8" pin="1" pintype="input"/>
+      <node ref="J8" pin="2" pintype="input"/>
+      <node ref="U2" pin="15" pinfunction="REFIN-" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(U2-SCLK)">
+      <node ref="J15" pin="1" pintype="input"/>
+      <node ref="J15" pin="2" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="SCLK" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(U2-~{ACX})">
+      <node ref="U1" pin="4" pintype="input"/>
+      <node ref="U2" pin="17" pinfunction="~{ACX}" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(U2-~{CS})">
+      <node ref="J14" pin="1" pintype="input"/>
+      <node ref="J14" pin="2" pintype="input"/>
+      <node ref="U2" pin="19" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(U2-~{RDY})">
+      <node ref="J13" pin="1" pintype="input"/>
+      <node ref="J13" pin="2" pintype="input"/>
+      <node ref="U2" pin="20" pinfunction="~{RDY}" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(U2-~{RESET})">
+      <node ref="J11" pin="1" pintype="input"/>
+      <node ref="J11" pin="2" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U2-~{STANDBY})">
+      <node ref="J18" pin="1" pintype="input"/>
+      <node ref="J18" pin="2" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="~{STANDBY}" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U2-~{SYNC})">
+      <node ref="J12" pin="1" pintype="input"/>
+      <node ref="J12" pin="2" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="~{SYNC}" pintype="input"/>
+    </net>
+    <net code="25" name="VAA">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J22" pin="1" pintype="input"/>
+      <node ref="J22" pin="2" pintype="input"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="AVDD" pintype="power_in"/>
+    </net>
+    <net code="26" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="J10" pin="1" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="DVDD" pintype="power_in"/>
+    </net>
+    <net code="27" name="unconnected-(U2-Vbias-Pad7)">
+      <node ref="U2" pin="7" pinfunction="Vbias" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

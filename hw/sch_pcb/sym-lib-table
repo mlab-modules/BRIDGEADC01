@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "BRIDGEADC01A-rescue")(type "Legacy")(uri "${KIPRJMOD}/BRIDGEADC01A-rescue.lib")(options "")(descr ""))
-)

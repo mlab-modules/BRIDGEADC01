@@ -18,4 +18,11 @@ tags:
 - weight-sensors
 - weight-sensor
 - force-sensitive-resistor
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- mlab-kicad
+- pcb
 title: BRIDGEADC01

@@ -5,7 +5,7 @@ github_branches:
 github_repo: BRIDGEADC01
 github_url: https://github.com/mlab-modules/BRIDGEADC01
 homepage: false
-image: doc/img/BRIDGEADC01A_demo.jpg
+image: doc/gen/img/BRIDGEADC01-top.png
 images:
 - doc/img/BRIDGEADC01A_demo.jpg
 - doc/img/BRIDGEADC01A_small.jpg

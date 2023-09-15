@@ -19,9 +19,9 @@ images:
 - hw/cam_profi/assembly/BRIDGEADC01-assembly_page_01.svg
 issues: 1
 mark: 50
-status: 2
 mod_ibom: hw/cam_profi/BRIDGEADC01-ibom.html
 mod_scheme: doc/gen/BRIDGEADC01-schematic.pdf
+status: 2
 tags:
 - strain-gauge
 - weight-scale
@@ -36,4 +36,4 @@ tags:
 - mlab-kicad
 - pcb
 title: BRIDGEADC01
-updated: '2023-09-15T09:58:52.694581+00:00'
+updated: '2023-09-15T15:09:00.187367+00:00'
